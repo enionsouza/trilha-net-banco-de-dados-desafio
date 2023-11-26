@@ -1,4 +1,4 @@
-# DIO - Trilha .NET - Banco de Dados
+# DIO - Trilha .NET - Banco de Dados (com Solução)
 www.dio.me
 
 ## Desafio de projeto
@@ -89,3 +89,7 @@ Você deverá criar diversas consultas, com o objetivo de retornar os dados a se
 ## 12 - Buscar o nome do filme e os atores, trazendo o PrimeiroNome, UltimoNome e seu Papel
 
 ![Exercicio 12](Imagens/12.png)
+
+## Solução
+A solução do Desafio foi implementada conforme as regras estabelecidas acima. A solução encontra-se na _branch_ "solucao" que deverá ser mergeada à _branch_ "main" em _Pull Request_ específico.
+Para cada item foi gerada uma consulta correspondente e todas as consultas encontram-se no arquivo **Resposta.sql**.
